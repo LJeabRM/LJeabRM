@@ -7,7 +7,7 @@ I'm a passionate and curious Computer Engineering student at **King Mongkut's Un
 
 * 🌍 I'm based in **Thailand**
 
----
+
 
 ### 🛠️ Skills
 
@@ -21,20 +21,11 @@ I'm a passionate and curious Computer Engineering student at **King Mongkut's Un
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
----
 
 ### 🌐 Socials
 
-<p align="left"> 
-  <a href="https://discord.com/users/lukjeab876" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.github.com/LJeabRM" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-</p>
+<p align="left"> <a href="https://discord.com/users/lukjeab876" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LJeabRM" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
----
 
 ### 📊 Badges
 
